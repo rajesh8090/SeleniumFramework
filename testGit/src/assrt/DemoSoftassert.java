@@ -17,6 +17,7 @@ public void m1()
 	sa.assertEquals(s1, s2);
 	
 	System.out.println("end");
+System.out.println("finish");
 	sa.assertAll();
 	
 }
